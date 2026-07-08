@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="WealthSync.Api/WealthSync.Api.csproj" />
+  <Project Path="WealthSync.Application/WealthSync.Application.csproj" />
+  <Project Path="WealthSync.Domain/WealthSync.Domain.csproj" />
+  <Project Path="WealthSync.Infrastructure/WealthSync.Infrastructure.csproj" />
+  <Project Path="WealthSync.Tests/WealthSync.Tests.csproj" />
+</Solution>
